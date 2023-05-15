@@ -177,4 +177,5 @@ a{
     transform: translateY(50%);
     position:relative;
     bottom:50px;
+	text-decoration:none;
 }
